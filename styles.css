@@ -37,5 +37,11 @@ nav ul li:hover{
 }
 
 .main-title{
+    padding-left: 30px;
+    padding: 20px;
+    width: 25%;
+    color: rgb(249, 249, 249);
+    text-align:center;
+    background:#fa502a;
     
 }
