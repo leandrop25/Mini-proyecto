@@ -1,0 +1,41 @@
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Arial';
+}
+
+header{
+    width: 100%;
+    padding: 35px;
+    color: rgb(58, 6, 6);
+    text-align:center;
+    background:#e62f06;
+}
+
+nav ul{
+    list-style:none;
+    background: #f84206;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 18px;
+    transition: all ease-in-out 250ms;
+}
+
+ul li a{
+    color: rgb(1, 1, 1);
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background: #ffe8de;
+}
+
+.main-title{
+    
+}
