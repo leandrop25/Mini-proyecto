@@ -39,9 +39,17 @@ nav ul li:hover{
 .main-title{
     padding-left: 30px;
     padding: 20px;
+    color: rgb(228, 54, 19);
+    text-align:center;
+    background:#faf5f4;
+    font-size:300%;
+}
+
+.main-subtitle{
+    padding-left: 30px;
+    padding: 20px;
     width: 25%;
-    color: rgb(249, 249, 249);
+    color: rgb(249, 241, 241);
     text-align:center;
     background:#fa502a;
-    
 }
