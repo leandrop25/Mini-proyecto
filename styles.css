@@ -45,20 +45,6 @@ nav ul li:hover{
     font-size:300%;
 }
 
-.parrafo{
-    font-family: "Arial";
-    font-size:40px;
-    margin-left: 30px;
-    margin-top: 50px;
-    color: black;
-
-}
-
-.foto{
-    height: 250px;
-    width: 250px;
-}
-
 .main-subtitle{
     margin-left: 30px;
     padding: 20px;
